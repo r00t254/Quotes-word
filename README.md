@@ -6,6 +6,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 .This is a web page that show application on both terrible and inspirational quotes and enable one to vote on any of them .
 # Live Link
 
+# Installation Requirements
+.User can click posted quotes to display the author name
+
+.User can delete quotes
+
+.The user can also upvote and downvote to see the values
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
