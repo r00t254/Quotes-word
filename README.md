@@ -26,6 +26,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 # Contact detail
 .You can contact me via e-mail:root254.mary@gmail.com
+.Feel free to share your comments and feedback here 
 
 ## Running end-to-end tests
 
