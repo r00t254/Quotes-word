@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Description
 .This is a web page that show application on both terrible and inspirational quotes and enable one to vote on any of them .
+# Live Link
 
 ## Development server
 
